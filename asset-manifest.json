@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/petrohusak/blog-site-deployed/static/css/main.06f4154e.chunk.css",
+    "main.js": "/petrohusak/blog-site-deployed/static/js/main.f24ee2a2.chunk.js",
+    "main.js.map": "/petrohusak/blog-site-deployed/static/js/main.f24ee2a2.chunk.js.map",
+    "runtime-main.js": "/petrohusak/blog-site-deployed/static/js/runtime-main.3aa06889.js",
+    "runtime-main.js.map": "/petrohusak/blog-site-deployed/static/js/runtime-main.3aa06889.js.map",
+    "static/js/2.ad6dd569.chunk.js": "/petrohusak/blog-site-deployed/static/js/2.ad6dd569.chunk.js",
+    "static/js/2.ad6dd569.chunk.js.map": "/petrohusak/blog-site-deployed/static/js/2.ad6dd569.chunk.js.map",
+    "static/js/3.d94129a0.chunk.js": "/petrohusak/blog-site-deployed/static/js/3.d94129a0.chunk.js",
+    "static/js/3.d94129a0.chunk.js.map": "/petrohusak/blog-site-deployed/static/js/3.d94129a0.chunk.js.map",
+    "index.html": "/petrohusak/blog-site-deployed/index.html",
+    "static/css/main.06f4154e.chunk.css.map": "/petrohusak/blog-site-deployed/static/css/main.06f4154e.chunk.css.map",
+    "static/js/2.ad6dd569.chunk.js.LICENSE.txt": "/petrohusak/blog-site-deployed/static/js/2.ad6dd569.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aa06889.js",
+    "static/js/2.ad6dd569.chunk.js",
+    "static/css/main.06f4154e.chunk.css",
+    "static/js/main.f24ee2a2.chunk.js"
+  ]
+}
